@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Kushi Kumbagowdana, and I am a new graduate student that just completed my bachelor's in Software Engineering at UCI. 
+I am open to working in any field and have dabbled with both frontend and backend languages such as C++, JavaScript, TypeScript, React, and Python. 
+🌱 I am currently challenging myself by taking an AI course to learn and gain a better understanding with APIs. 
+📫 Feel free to reach out to me through my email or LinkedIn: 
+    Email: kushikumb@gmail.com
+    LinkedIn: https://www.linkedin.com/in/kushi-kumbagowdana-96a683233
